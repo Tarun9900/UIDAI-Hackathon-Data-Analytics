@@ -49,12 +49,6 @@ UIDAI-Data-Hackathon-Analysis/
 
 │ └── Biometric Updates Preview
 
-│
-
-└── report/
-
-└── [UIDAI_Data_Hackathon_2026_Report.pdf](https://github.com/Tarun9900/UIDAI-Hackathon-Data-Analytics/blob/main/UIDAI_Data_Hackathon_2026_Report.pdf)
-
 ---
 
 ## 🧠 Methodology
